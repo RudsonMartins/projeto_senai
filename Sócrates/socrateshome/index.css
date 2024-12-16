@@ -1,0 +1,36 @@
+.ag-courses_item {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.2s;
+  }
+
+  .ag-courses_item:hover {
+    transform: scale(1.05);
+  }
+
+  .ag-courses-item_link {
+    text-decoration: none;
+    color: #2795D9;
+    font-weight: bold;
+  }
+
+  .modal-content {
+    border-radius: 10px;
+  }
+
+  .download-btn {
+    background-color: #1DA1F2;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .download-btn:hover {
+    background-color: #0d8ee1;
+  }
