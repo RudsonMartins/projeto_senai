@@ -79,4 +79,4 @@ Scripts:
 
 Bootstrap: A página utiliza o Bootstrap para garantir que seja responsiva e adaptável a diferentes dispositivos.
 Conclusão:
-A plataforma "Biblioteca Sócrates" foi desenvolvida para oferecer uma experiência de navegação agradável e intuitiva aos usuários, com páginas responsivas e uma estrutura modular para cada funcionalidade principal (Home, Login e Sobre). O uso do Bootstrap permite que o site se adapte automaticamente a diferentes tamanhos de tela, enquanto o JavaScript oferece funcionalidades dinâmicas, como a exibição de livros e o logi
+A plataforma "Biblioteca Sócrates" foi desenvolvida para oferecer uma experiência de navegação agradável e intuitiva aos usuários, com páginas responsivas e uma estrutura modular para cada funcionalidade principal (Home, Login e Sobre). O uso do Bootstrap permite que o site se adapte automaticamente a diferentes tamanhos de tela, enquanto o JavaScript oferece funcionalidades dinâmicas.
